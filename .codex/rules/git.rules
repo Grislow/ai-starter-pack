@@ -1,0 +1,4 @@
+# Project Git permissions. Load only after trusting the project configuration.
+prefix_rule(pattern=["git", "add"], decision="allow")
+prefix_rule(pattern=["git", "commit"], decision="allow")
+prefix_rule(pattern=["git", "push"], decision="prompt")
