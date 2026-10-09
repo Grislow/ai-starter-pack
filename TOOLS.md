@@ -11,7 +11,10 @@ Table of Contents
   - [UI Design](#ui-design)
   - [Planning Work](#planning-work)
   - [Building software](#building-software)
-  - [](#)
+  - [Maintenance](#maintenance)
+  - [Testing and Understanding](#testing-and-understanding)
+  - [Research](#research)
+  - [AI Evaluation and Optimization](#ai-evaluation-and-optimization)
 
 ## Aim
 
@@ -82,8 +85,42 @@ Tools:
 
 - lorem
 
-##
-  - maintaining software
-  - testing and understanding software
-  - research
-  - ai use evaluation and optimization
+## Maintenance
+
+Setup:
+
+- asdasd
+
+Tools:
+
+- lorem
+
+## Testing and Understanding
+
+Setup:
+
+- asdasd
+
+Tools:
+
+- lorem
+
+## Research
+
+Setup:
+
+- asdasd
+
+Tools:
+
+- lorem
+
+## AI Evaluation and Optimization
+
+Setup:
+
+- asdasd
+
+Tools:
+
+- lorem
