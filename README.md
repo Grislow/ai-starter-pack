@@ -2,23 +2,6 @@
 
 Starter pack for setting up popular AI tools to supercharge system / software / ui design, planning work, building, evaluating and research.
 
-- [ai-starter-pack](#ai-starter-pack)
-  - [Directories](#directories)
-  - [Resources](#resources)
-  - [System Design](#system-design)
-  - [Software Design](#software-design)
-  - [UI Design](#ui-design)
-  - [Planning Work](#planning-work)
-  - [Building software](#building-software)
-  - [Maintenance](#maintenance)
-  - [Understanding](#understanding)
-  - [Testing](#testing)
-  - [Security](#security)
-  - [Research](#research)
-  - [AI Evaluation / Optimization](#ai-evaluation--optimization)
-  - [Conversation Modes](#conversation-modes)
-  - [Agent Orchestrators](#agent-orchestrators)
-
 ## Directories
 
 Catalogs and marketplaces to discover more plugins and skills.
@@ -37,6 +20,30 @@ Catalogs and marketplaces to discover more plugins and skills.
 | [claude-code-templates](https://github.com/davila7/claude-code-templates) | CLI to install agents, commands, hooks, MCPs into Claude Code and monitor usage. |
 
 ## Resources
+
+### Categories
+
+| Category | What it covers |
+| --- | --- |
+| System Design | Architecture of whole systems: scalability, data stores, reliability, service boundaries. |
+| Software Design | Code-level structure: modules, domain modeling, interfaces, clean architecture. |
+| UI Design | Visual and UX quality of frontends: layout, typography, color, design systems, avoiding generic AI look. |
+| Planning Work | Turning ideas into specs, PRDs, plans and tasks before coding. |
+| Building Software | Writing and implementing code with the agent. |
+| Maintenance | Reviewing, refactoring, simplifying, debugging and managing existing code and repos. |
+| Understanding | Making sense of an existing codebase: knowledge graphs, architecture maps, code navigation. |
+| Testing | Verifying software works: TDD, browser testing, audits, QA gates. |
+| Security | Finding vulnerabilities and red-teaming code, prompts and agents. |
+| Research | Gathering and synthesizing outside knowledge: web, social, docs, scientific sources. |
+| AI Evaluation / Optimization | Measuring and improving AI use: token and cost savings, model routing, prompt and agent evals. |
+| Conversation Modes | Changing how the agent talks or behaves: terse, answer-first, minimal-code personas. |
+| Workflow Framework | End-to-end methodology bundles covering several phases (spec → plan → build → test → review). |
+| Memory / Context | Persisting or compressing context across sessions: memory stores, knowledge graphs, context compression. |
+| Writing | Prose quality: removing AI tells and slop from text. |
+| Skill Authoring | Building or improving your own skills and plugins, and reference formats for them. |
+| Agent Orchestrators | Running and coordinating multiple agents in parallel. |
+
+### Tools
 
 | Name | Description | Categories |
 | --- | --- | --- |
